@@ -24,10 +24,9 @@ This project is about fetching images from unsplash API and users are able to sc
 
 2. Create an .env file for credential safety
 
-``
-REACT_APP_UNSPLASH_API = "https://api.unsplash.com/photos/random/?client_id="
-REACT_APP_API_KEY = "Please Type your Access Key"
-``
+`REACT_APP_UNSPLASH_API = "https://api.unsplash.com/photos/random/?client_id="`
+
+`REACT_APP_API_KEY = "Please Type your Access Key"`
 
 3. Type command and implement package.json
 
@@ -39,7 +38,7 @@ REACT_APP_API_KEY = "Please Type your Access Key"
 
 ### Demo
 
-You can see []()
+You can see [Unsplash Infinity Scroll App](https://unsplash-infinity-scroll.vercel.app)
 
 ### Official Document
 
